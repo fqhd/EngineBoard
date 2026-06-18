@@ -357,4 +357,20 @@ CMakeFiles/MyQtApp.dir/main.cpp.o: /home/fahd/GitHub/EngineBoard/main.cpp \
  /usr/include/qt6/QtCore/qendian.h /usr/include/qt6/QtGui/qfontmetrics.h \
  /usr/include/qt6/QtGui/qfontinfo.h \
  /usr/include/qt6/QtGui/qfontvariableaxis.h \
- /usr/include/qt6/QtWidgets/qsizepolicy.h
+ /usr/include/qt6/QtWidgets/qsizepolicy.h /usr/include/qt6/QtGui/QPainter \
+ /usr/include/qt6/QtGui/qpainter.h /usr/include/qt6/QtGui/qtextoption.h \
+ /usr/include/qt6/QtGui/qpen.h /usr/include/qt6/QtCore/QDebug \
+ /usr/include/c++/16.1.1/iostream /usr/include/c++/16.1.1/ostream \
+ /usr/include/c++/16.1.1/bits/ostream.h /usr/include/c++/16.1.1/ios \
+ /usr/include/c++/16.1.1/bits/basic_ios.h \
+ /usr/include/c++/16.1.1/bits/locale_facets.h \
+ /usr/include/c++/16.1.1/cwctype /usr/include/wctype.h \
+ /usr/include/bits/wctype-wchar.h \
+ /usr/include/c++/16.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+ /usr/include/c++/16.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+ /usr/include/c++/16.1.1/bits/locale_facets.tcc \
+ /usr/include/c++/16.1.1/bits/basic_ios.tcc \
+ /usr/include/c++/16.1.1/bits/ostream_print.h \
+ /usr/include/c++/16.1.1/bits/ostream.tcc /usr/include/c++/16.1.1/istream \
+ /usr/include/c++/16.1.1/bits/istream.tcc \
+ /home/fahd/GitHub/EngineBoard/config.hpp /usr/include/qt6/QtCore/QString

@@ -5,6 +5,8 @@ MyQtApp_autogen/timestamp: /home/fahd/GitHub/EngineBoard/CMakeLists.txt \
   CMakeFiles/4.3.4/CMakeCCompiler.cmake \
   CMakeFiles/4.3.4/CMakeCXXCompiler.cmake \
   CMakeFiles/4.3.4/CMakeSystem.cmake \
+  /home/fahd/GitHub/EngineBoard/config.cpp \
+  /home/fahd/GitHub/EngineBoard/config.hpp \
   /home/fahd/GitHub/EngineBoard/main.cpp \
   /usr/bin/cmake \
   /usr/lib/cmake/Qt6/FindWrapAtomic.cmake \
@@ -656,15 +658,11 @@ MyQtApp_autogen/timestamp: /home/fahd/GitHub/EngineBoard/CMakeLists.txt \
 
 /usr/lib/cmake/Qt6Gui/Qt6QTsLibPluginTargets.cmake:
 
-/usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake:
-
-/usr/lib/cmake/Qt6Gui/Qt6QICOPluginTargets.cmake:
+/usr/lib/cmake/Qt6Gui/Qt6QTsLibPluginAdditionalTargetInfo.cmake:
 
 /usr/lib/cmake/Qt6Gui/Qt6QTgaPluginTargets.cmake:
 
 /usr/lib/cmake/Qt6Gui/Qt6QComposePlatformInputContextPluginConfig.cmake:
-
-/usr/lib/cmake/Qt6Gui/Qt6QTsLibPluginAdditionalTargetInfo.cmake:
 
 /usr/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake:
 
@@ -750,10 +748,6 @@ MyQtApp_autogen/timestamp: /home/fahd/GitHub/EngineBoard/CMakeLists.txt \
 
 /usr/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:
 
-/usr/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-relwithdebinfo.cmake:
-
-/usr/lib/cmake/Qt6Gui/Qt6QEglFSIntegrationPluginConfig.cmake:
-
 /usr/lib/cmake/Qt6DBus/Qt6DBusDependencies.cmake:
 
 /usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake:
@@ -788,27 +782,7 @@ MyQtApp_autogen/timestamp: /home/fahd/GitHub/EngineBoard/CMakeLists.txt \
 
 /usr/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake:
 
-/usr/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake:
-
-/usr/lib/cmake/Qt6/QtPublicSbomAttributionHelpers.cmake:
-
-/usr/lib/cmake/Qt6Gui/Qt6DmaBufServerBufferPluginConfig.cmake:
-
-/usr/share/cmake/Modules/FindOpenGL.cmake:
-
-/usr/lib/cmake/Qt6Gui/Qt6QXdgDesktopPortalThemePluginTargetsPrecheck.cmake:
-
-/usr/lib/cmake/Qt6DBus/Qt6DBusConfigVersionImpl.cmake:
-
-/usr/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake:
-
-/usr/lib/cmake/Qt6/Qt6VersionlessAliasTargets.cmake:
-
-/usr/lib/cmake/Qt6Gui/Qt6QWaylandFullScreenShellV1IntegrationPluginTargets.cmake:
-
-/usr/lib/cmake/Qt6DBus/Qt6DBusVersionlessAliasTargets.cmake:
-
-/usr/lib/cmake/Qt6/Qt6Dependencies.cmake:
+/usr/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:
 
 /usr/lib/cmake/Qt6Gui/Qt6QEglFSEmulatorIntegrationPluginTargets.cmake:
 
@@ -832,6 +806,22 @@ MyQtApp_autogen/timestamp: /home/fahd/GitHub/EngineBoard/CMakeLists.txt \
 
 /usr/lib/cmake/Qt6/QtPublicCMakeEarlyPolicyHelpers.cmake:
 
+/usr/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersionImpl.cmake:
+
+/usr/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake:
+
+/usr/lib/cmake/Qt6Gui/Qt6GuiTargets-relwithdebinfo.cmake:
+
+/usr/lib/cmake/Qt6Gui/Qt6QComposePlatformInputContextPluginTargets-relwithdebinfo.cmake:
+
+/usr/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-relwithdebinfo.cmake:
+
+/usr/lib/cmake/Qt6/Qt6Targets.cmake:
+
+/usr/lib/cmake/Qt6Gui/Qt6GuiAdditionalTargetInfo.cmake:
+
+/usr/lib/cmake/Qt6Gui/Qt6QEglFSKmsEglDeviceIntegrationPluginConfig.cmake:
+
 /usr/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake:
 
 /usr/lib/cmake/Qt6Gui/Qt6VulkanServerBufferPluginTargets-relwithdebinfo.cmake:
@@ -841,12 +831,6 @@ MyQtApp_autogen/timestamp: /home/fahd/GitHub/EngineBoard/CMakeLists.txt \
 /usr/lib/cmake/Qt6Gui/Qt6GuiPlugins.cmake:
 
 /usr/lib/cmake/Qt6/QtPublicAppleHelpers.cmake:
-
-/usr/lib/cmake/Qt6/QtFeatureCommon.cmake:
-
-/usr/lib/cmake/Qt6Gui/Qt6QEglFSEmulatorIntegrationPluginTargets-relwithdebinfo.cmake:
-
-/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake:
 
 /usr/lib/cmake/Qt6Gui/Qt6QXcbEglIntegrationPluginTargets-relwithdebinfo.cmake:
 
@@ -882,6 +866,32 @@ MyQtApp_autogen/timestamp: /home/fahd/GitHub/EngineBoard/CMakeLists.txt \
 
 CMakeFiles/4.3.4/CMakeCXXCompiler.cmake:
 
+/usr/lib/cmake/Qt6Gui/Qt6QWaylandFullScreenShellV1IntegrationPluginTargets.cmake:
+
+/usr/lib/cmake/Qt6DBus/Qt6DBusVersionlessAliasTargets.cmake:
+
+/usr/lib/cmake/Qt6/Qt6Dependencies.cmake:
+
+/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake:
+
+/usr/lib/cmake/Qt6Gui/Qt6QEglFSEmulatorIntegrationPluginTargets-relwithdebinfo.cmake:
+
+/usr/lib/cmake/Qt6Gui/Qt6DmaBufServerBufferPluginConfig.cmake:
+
+/usr/share/cmake/Modules/FindOpenGL.cmake:
+
+/usr/lib/cmake/Qt6Gui/Qt6QXdgDesktopPortalThemePluginTargetsPrecheck.cmake:
+
+/usr/lib/cmake/Qt6DBus/Qt6DBusConfigVersionImpl.cmake:
+
+/usr/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake:
+
+/usr/lib/cmake/Qt6/Qt6VersionlessAliasTargets.cmake:
+
+/usr/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake:
+
+/usr/lib/cmake/Qt6/QtPublicSbomAttributionHelpers.cmake:
+
 /usr/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginAdditionalTargetInfo.cmake:
 
 CMakeFiles/4.3.4/CMakeCCompiler.cmake:
@@ -898,11 +908,29 @@ CMakeFiles/4.3.4/CMakeCCompiler.cmake:
 
 /usr/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake:
 
+/usr/lib/cmake/Qt6/QtFeatureCommon.cmake:
+
+/usr/lib/cmake/Qt6/QtPublicToolHelpers.cmake:
+
+/usr/lib/cmake/Qt6Gui/Qt6QLinuxFbIntegrationPluginTargets-relwithdebinfo.cmake:
+
+/usr/lib/cmake/Qt6Gui/Qt6QMngPluginTargets.cmake:
+
+/usr/lib/cmake/Qt6Gui/Qt6QSvgPluginAdditionalTargetInfo.cmake:
+
 /usr/lib/cmake/Qt6Gui/Qt6QWaylandIntegrationPluginTargets-relwithdebinfo.cmake:
 
 /home/fahd/GitHub/EngineBoard/CMakeLists.txt:
 
 /usr/lib/cmake/Qt6Gui/Qt6QSvgPluginTargetsPrecheck.cmake:
+
+/usr/share/cmake/Modules/Platform/Linker/Linux-GNU-CXX.cmake:
+
+/usr/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake:
+
+/usr/lib/cmake/Qt6Gui/Qt6QWebpPluginTargetsPrecheck.cmake:
+
+/usr/lib/cmake/Qt6/QtPublicGitHelpers.cmake:
 
 /usr/share/cmake/Modules/Platform/UnixPaths.cmake:
 
@@ -914,13 +942,33 @@ CMakeFiles/4.3.4/CMakeCCompiler.cmake:
 
 /usr/lib/cmake/Qt6Gui/Qt6QGifPluginTargetsPrecheck.cmake:
 
-/usr/lib/cmake/Qt6Gui/Qt6QWebpPluginTargetsPrecheck.cmake:
+/usr/lib/cmake/Qt6Gui/Qt6DmaBufServerBufferPluginTargets.cmake:
 
-/usr/lib/cmake/Qt6/QtPublicGitHelpers.cmake:
+/usr/share/cmake/Modules/Internal/CheckSourceCompiles.cmake:
 
-/usr/share/cmake/Modules/Platform/Linker/Linux-GNU-CXX.cmake:
+/usr/lib/cmake/Qt6Gui/Qt6QIbusPlatformInputContextPluginAdditionalTargetInfo.cmake:
 
-/usr/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake:
+/usr/lib/cmake/Qt6/QtPublicSbomGenerationCycloneDXHelpers.cmake:
+
+/usr/lib/cmake/Qt6Gui/Qt6QICNSPluginTargets-relwithdebinfo.cmake:
+
+/usr/lib/cmake/Qt6/QtPublicSbomRelationshipHelpers.cmake:
+
+/usr/lib/cmake/Qt6/QtPublicSbomBuildToolHelpers.cmake:
+
+/usr/lib/cmake/Qt6Gui/Qt6QComposePlatformInputContextPluginTargetsPrecheck.cmake:
+
+/usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake:
+
+/usr/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake:
+
+/home/fahd/GitHub/EngineBoard/main.cpp:
+
+/usr/lib/cmake/Qt6Widgets/Qt6WidgetsTargetsPrecheck.cmake:
+
+/usr/lib/cmake/Qt6/QtPublicSbomCycloneDXHelpers.cmake:
+
+/usr/lib/cmake/Qt6Gui/Qt6QGtk3ThemePluginTargetsPrecheck.cmake:
 
 /usr/lib/cmake/Qt6/FindWrapAtomic.cmake:
 
@@ -940,16 +988,6 @@ CMakeFiles/4.3.4/CMakeCCompiler.cmake:
 
 /usr/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake:
 
-/usr/lib/cmake/Qt6/QtPublicSbomBuildToolHelpers.cmake:
-
-/usr/lib/cmake/Qt6Gui/Qt6DmaBufServerBufferPluginTargets.cmake:
-
-/usr/share/cmake/Modules/Internal/CheckSourceCompiles.cmake:
-
-/usr/lib/cmake/Qt6Gui/Qt6QIbusPlatformInputContextPluginAdditionalTargetInfo.cmake:
-
-/usr/lib/cmake/Qt6/QtPublicSbomGenerationCycloneDXHelpers.cmake:
-
 /usr/lib/cmake/Qt6/QtPublicSbomHelpers.cmake:
 
 /usr/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-relwithdebinfo.cmake:
@@ -964,22 +1002,6 @@ CMakeFiles/4.3.4/CMakeCCompiler.cmake:
 
 /usr/lib/cmake/Qt6Gui/Qt6QEglFSKmsEglDeviceIntegrationPluginTargets-relwithdebinfo.cmake:
 
-/usr/lib/cmake/Qt6Gui/Qt6QComposePlatformInputContextPluginTargetsPrecheck.cmake:
-
-/usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake:
-
-/usr/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake:
-
-/home/fahd/GitHub/EngineBoard/main.cpp:
-
-/usr/lib/cmake/Qt6Widgets/Qt6WidgetsTargetsPrecheck.cmake:
-
-/usr/lib/cmake/Qt6/QtPublicSbomCycloneDXHelpers.cmake:
-
-/usr/lib/cmake/Qt6Gui/Qt6QGtk3ThemePluginTargetsPrecheck.cmake:
-
-/usr/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:
-
 /usr/lib/cmake/Qt6/QtPublicSbomDepHelpers.cmake:
 
 /usr/lib/cmake/Qt6Gui/Qt6QEglFSIntegrationPluginTargets.cmake:
@@ -993,6 +1015,8 @@ CMakeFiles/4.3.4/CMakeCCompiler.cmake:
 /usr/lib/cmake/Qt6/Qt6ConfigVersion.cmake:
 
 /usr/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake:
+
+/home/fahd/GitHub/EngineBoard/config.hpp:
 
 /usr/lib/cmake/Qt6/QtPublicSbomDocumentNamespaceHelpers.cmake:
 
@@ -1036,12 +1060,6 @@ CMakeFiles/4.3.4/CMakeSystem.cmake:
 
 /usr/lib/cmake/Qt6Gui/Qt6QMngPluginTargets-relwithdebinfo.cmake:
 
-/usr/share/cmake/Modules/Compiler/GNU-CXX.cmake:
-
-/usr/lib/cmake/Qt6Gui/Qt6QEglFSIntegrationPluginAdditionalTargetInfo.cmake:
-
-/usr/lib/cmake/Qt6/QtPublicSbomLicenseHelpers.cmake:
-
 /usr/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersion.cmake:
 
 /usr/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets.cmake:
@@ -1054,35 +1072,21 @@ CMakeFiles/4.3.4/CMakeSystem.cmake:
 
 /usr/lib/cmake/Qt6Gui/Qt6QPdfPluginTargets.cmake:
 
-/usr/lib/cmake/Qt6/QtPublicToolHelpers.cmake:
-
-/usr/lib/cmake/Qt6Gui/Qt6QLinuxFbIntegrationPluginTargets-relwithdebinfo.cmake:
-
-/usr/lib/cmake/Qt6Gui/Qt6QMngPluginTargets.cmake:
-
-/usr/lib/cmake/Qt6Gui/Qt6QSvgPluginAdditionalTargetInfo.cmake:
-
 /usr/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake:
 
-/usr/lib/cmake/Qt6Gui/Qt6GuiTargets-relwithdebinfo.cmake:
+/usr/share/cmake/Modules/Compiler/GNU-CXX.cmake:
 
-/usr/lib/cmake/Qt6Gui/Qt6QComposePlatformInputContextPluginTargets-relwithdebinfo.cmake:
+/usr/lib/cmake/Qt6/QtPublicSbomLicenseHelpers.cmake:
 
-/usr/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-relwithdebinfo.cmake:
+/usr/lib/cmake/Qt6Gui/Qt6QEglFSIntegrationPluginAdditionalTargetInfo.cmake:
 
-/usr/lib/cmake/Qt6/Qt6Targets.cmake:
+/usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake:
 
-/usr/lib/cmake/Qt6Gui/Qt6GuiAdditionalTargetInfo.cmake:
+/usr/lib/cmake/Qt6Gui/Qt6QICOPluginTargets.cmake:
 
-/usr/lib/cmake/Qt6Gui/Qt6QEglFSKmsEglDeviceIntegrationPluginConfig.cmake:
+/usr/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-relwithdebinfo.cmake:
 
-/usr/lib/cmake/Qt6/QtPublicSbomRelationshipHelpers.cmake:
-
-/usr/lib/cmake/Qt6Gui/Qt6QICNSPluginTargets-relwithdebinfo.cmake:
-
-/usr/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersionImpl.cmake:
-
-/usr/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake:
+/usr/lib/cmake/Qt6Gui/Qt6QEglFSIntegrationPluginConfig.cmake:
 
 /usr/lib/cmake/Qt6Gui/Qt6QEglFSIntegrationPluginTargets-relwithdebinfo.cmake:
 
@@ -1127,6 +1131,8 @@ CMakeFiles/4.3.4/CMakeSystem.cmake:
 /usr/lib/cmake/Qt6Gui/Qt6QXdgDesktopPortalThemePluginTargets-relwithdebinfo.cmake:
 
 /usr/lib/cmake/Qt6Gui/Qt6QEvdevMousePluginTargets-relwithdebinfo.cmake:
+
+/home/fahd/GitHub/EngineBoard/config.cpp:
 
 /usr/lib/cmake/Qt6Gui/Qt6QEvdevMousePluginTargetsPrecheck.cmake:
 

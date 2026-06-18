@@ -3,6 +3,8 @@ MyQtApp_autogen/timestamp: \
 	/home/fahd/GitHub/EngineBoard/build/CMakeFiles/4.3.4/CMakeCCompiler.cmake \
 	/home/fahd/GitHub/EngineBoard/build/CMakeFiles/4.3.4/CMakeCXXCompiler.cmake \
 	/home/fahd/GitHub/EngineBoard/build/CMakeFiles/4.3.4/CMakeSystem.cmake \
+	/home/fahd/GitHub/EngineBoard/config.cpp \
+	/home/fahd/GitHub/EngineBoard/config.hpp \
 	/home/fahd/GitHub/EngineBoard/main.cpp \
 	/usr/lib/cmake/Qt6/FindWrapAtomic.cmake \
 	/usr/lib/cmake/Qt6/FindWrapOpenGL.cmake \

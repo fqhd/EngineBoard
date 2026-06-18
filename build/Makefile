@@ -179,6 +179,30 @@ MyQtApp_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyQtApp.dir/build.make CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.s
 .PHONY : MyQtApp_autogen/mocs_compilation.cpp.s
 
+config.o: config.cpp.o
+.PHONY : config.o
+
+# target to build an object file
+config.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyQtApp.dir/build.make CMakeFiles/MyQtApp.dir/config.cpp.o
+.PHONY : config.cpp.o
+
+config.i: config.cpp.i
+.PHONY : config.i
+
+# target to preprocess a source file
+config.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyQtApp.dir/build.make CMakeFiles/MyQtApp.dir/config.cpp.i
+.PHONY : config.cpp.i
+
+config.s: config.cpp.s
+.PHONY : config.s
+
+# target to generate assembly for a file
+config.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyQtApp.dir/build.make CMakeFiles/MyQtApp.dir/config.cpp.s
+.PHONY : config.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -217,6 +241,9 @@ help:
 	@echo "... MyQtApp_autogen/mocs_compilation.o"
 	@echo "... MyQtApp_autogen/mocs_compilation.i"
 	@echo "... MyQtApp_autogen/mocs_compilation.s"
+	@echo "... config.o"
+	@echo "... config.i"
+	@echo "... config.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/fahd/GitHub/EngineBoard/build/MyQtApp_autogen/mocs_compilation.cpp" "CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o.d"
+  "/home/fahd/GitHub/EngineBoard/config.cpp" "CMakeFiles/MyQtApp.dir/config.cpp.o" "gcc" "CMakeFiles/MyQtApp.dir/config.cpp.o.d"
   "/home/fahd/GitHub/EngineBoard/main.cpp" "CMakeFiles/MyQtApp.dir/main.cpp.o" "gcc" "CMakeFiles/MyQtApp.dir/main.cpp.o.d"
   "" "MyQtApp" "gcc" "CMakeFiles/MyQtApp.dir/link.d"
   )

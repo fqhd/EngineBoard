@@ -1,14 +1,20 @@
 [
-  {
-    "directory": "/home/fahd/GitHub/EngineBoard/build",
-    "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/fahd/GitHub/EngineBoard/build/MyQtApp_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -std=gnu++17 -o CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o -c /home/fahd/GitHub/EngineBoard/build/MyQtApp_autogen/mocs_compilation.cpp",
-    "file": "/home/fahd/GitHub/EngineBoard/build/MyQtApp_autogen/mocs_compilation.cpp",
-    "output": "CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o"
-  },
-  {
-    "directory": "/home/fahd/GitHub/EngineBoard/build",
-    "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/fahd/GitHub/EngineBoard/build/MyQtApp_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -std=gnu++17 -o CMakeFiles/MyQtApp.dir/main.cpp.o -c /home/fahd/GitHub/EngineBoard/main.cpp",
-    "file": "/home/fahd/GitHub/EngineBoard/main.cpp",
-    "output": "CMakeFiles/MyQtApp.dir/main.cpp.o"
-  }
+{
+  "directory": "/home/fahd/GitHub/EngineBoard/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/fahd/GitHub/EngineBoard/build/MyQtApp_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -std=gnu++17 -mno-direct-extern-access -o CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o -c /home/fahd/GitHub/EngineBoard/build/MyQtApp_autogen/mocs_compilation.cpp",
+  "file": "/home/fahd/GitHub/EngineBoard/build/MyQtApp_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/fahd/GitHub/EngineBoard/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/fahd/GitHub/EngineBoard/build/MyQtApp_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -std=gnu++17 -mno-direct-extern-access -o CMakeFiles/MyQtApp.dir/main.cpp.o -c /home/fahd/GitHub/EngineBoard/main.cpp",
+  "file": "/home/fahd/GitHub/EngineBoard/main.cpp",
+  "output": "CMakeFiles/MyQtApp.dir/main.cpp.o"
+},
+{
+  "directory": "/home/fahd/GitHub/EngineBoard/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/fahd/GitHub/EngineBoard/build/MyQtApp_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -std=gnu++17 -mno-direct-extern-access -o CMakeFiles/MyQtApp.dir/config.cpp.o -c /home/fahd/GitHub/EngineBoard/config.cpp",
+  "file": "/home/fahd/GitHub/EngineBoard/config.cpp",
+  "output": "CMakeFiles/MyQtApp.dir/config.cpp.o"
+}
 ]

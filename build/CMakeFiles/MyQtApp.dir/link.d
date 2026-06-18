@@ -4,6 +4,7 @@ MyQtApp: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/crtbeginS.o \
   CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o \
   CMakeFiles/MyQtApp.dir/main.cpp.o \
+  CMakeFiles/MyQtApp.dir/config.cpp.o \
   /usr/lib/libQt6Widgets.so.6.11.1 \
   /usr/lib/libQt6Gui.so.6.11.1 \
   /usr/lib/libGLX.so \
@@ -82,6 +83,8 @@ MyQtApp: \
 CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o:
 
 CMakeFiles/MyQtApp.dir/main.cpp.o:
+
+CMakeFiles/MyQtApp.dir/config.cpp.o:
 
 /usr/lib/libQt6Widgets.so.6.11.1:
 

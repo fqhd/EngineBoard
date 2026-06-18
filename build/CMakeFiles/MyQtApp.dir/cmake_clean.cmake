@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "MyQtApp_autogen"
   "CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o"
   "CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/MyQtApp.dir/config.cpp.o"
+  "CMakeFiles/MyQtApp.dir/config.cpp.o.d"
   "CMakeFiles/MyQtApp.dir/main.cpp.o"
   "CMakeFiles/MyQtApp.dir/main.cpp.o.d"
   "MyQtApp"

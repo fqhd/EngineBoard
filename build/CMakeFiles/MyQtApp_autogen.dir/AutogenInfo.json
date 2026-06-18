@@ -561,7 +561,15 @@
 	"CROSS_CONFIG" : false,
 	"DEP_FILE" : "/home/fahd/GitHub/EngineBoard/build/MyQtApp_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "MyQtApp_autogen/timestamp",
-	"HEADERS" : [],
+	"HEADERS" : 
+	[
+		[
+			"/home/fahd/GitHub/EngineBoard/config.hpp",
+			"MU",
+			"EWIEGA46WW/moc_config.cpp",
+			null
+		]
+	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "/home/fahd/GitHub/EngineBoard/build/MyQtApp_autogen/include",
 	"MOC_COMPILATION_FILE" : "/home/fahd/GitHub/EngineBoard/build/MyQtApp_autogen/mocs_compilation.cpp",
@@ -620,6 +628,7 @@
 	"SETTINGS_FILE" : "/home/fahd/GitHub/EngineBoard/build/CMakeFiles/MyQtApp_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[ "/home/fahd/GitHub/EngineBoard/config.cpp", "MU", null ],
 		[ "/home/fahd/GitHub/EngineBoard/main.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
